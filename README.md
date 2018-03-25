@@ -1,6 +1,6 @@
 # EvoWave Chameleoclust
 
-![evowave visualization](./evowave_visualization)
+![evowave visualization](https://github.com/SergioPeignier/EvoWave_Chameleoclust/blob/master/evowave_visualization.png)
 
 ## Chameleoclust
 
