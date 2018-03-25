@@ -1,4 +1,4 @@
-### INSTALL
+# INSTALLATION
 
 Dependencies :
     - tshark (free and open-source. Official website : https://www.wireshark.org/download.html)
@@ -7,7 +7,7 @@ Dependencies :
 Chameleoclust compilation :
     We provide binaries for both Linux and OS X. If you need to compile it yourself for any purpose, sources are provided, and can be compiled via the command "python2.7 setup.py build_ext --inplace" in the ChameleoClust/ folder.
 
-### USAGE
+# USAGE
 
     - WifiCapture.py
         Proceed to data acquisition. Full documentation is accessible through "python2.7 WifiCapture.py -h"
@@ -36,4 +36,4 @@ Chameleoclust compilation :
     - video_evowave.py
         Python script producing the visual from log files produced by the evowave_clustering.py script.
 
-All scripts are to be launched with python2.7
+All scripts should be launched with python2.7
