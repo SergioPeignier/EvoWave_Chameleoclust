@@ -1,4 +1,6 @@
-# Project Description
+# EvoWave Chameleoclust
+
+![evowave visualization](./evowave_visualization)
 
 ## Chameleoclust
 
@@ -15,6 +17,7 @@ EvoWave, our first real-world application, deals with the Wi-Fi environment in w
 + Preprocessing
 + Clustering using Chameleoclust
 + Visualization of the resulting clusters and comparison with ground-truth
+
 
 # INSTALLATION
 
