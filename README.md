@@ -1,5 +1,5 @@
 # EvoWave Chameleoclust
-Project has been carried out by Sergio Peignier, Christophe Rigotti, Jonas Abernot, Anthony Rossi, Léo Lefebvre and Guillaume Beslon.
+Project carried out by Sergio Peignier, Christophe Rigotti, Jonas Abernot, Anthony Rossi, Léo Lefebvre and Guillaume Beslon.
 
 [![evowave visualization](https://github.com/SergioPeignier/EvoWave_Chameleoclust/blob/master/evowave_visualization.png)](https://www.youtube.com/watch?v=sJSr2BsZWJQ&feature=youtu.be)
 
