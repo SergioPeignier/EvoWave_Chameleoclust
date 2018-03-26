@@ -24,8 +24,9 @@ EvoWave, our first real-world application, deals with the Wi-Fi environment in w
 # INSTALLATION
 
 Dependencies :
-    - tshark (free and open-source. Official website : https://www.wireshark.org/download.html)
-    - python 2.7 ([anaconda distribution by continuum analytics](https://www.continuum.io/downloads) contains every needed library, otherwise, you'll need to install numpy, pandas, seaborn and pyqtgraph)
+
++ tshark (free and open-source. Official website : https://www.wireshark.org/download.html)
++ python 2.7 ([anaconda distribution by continuum analytics](https://www.continuum.io/downloads) contains every needed library, otherwise, you'll need to install numpy, pandas, seaborn and pyqtgraph)
 
 Chameleoclust compilation :
     We provide binaries for both Linux and OS X. If you need to compile it yourself for any purpose, sources are provided, and can be compiled via the command "python2.7 setup.py build_ext --inplace" in the ChameleoClust/ folder.
